@@ -227,7 +227,6 @@ Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf</description>
 <technologies>
 <technology name="">
 <attribute name="POPULATE" value="YES" constant="no"/>
-<attribute name="VALUE" value="APT1608QBC/D" constant="no"/>
 <attribute name="VERIFIED" value="NO" constant="no"/>
 </technology>
 </technologies>
