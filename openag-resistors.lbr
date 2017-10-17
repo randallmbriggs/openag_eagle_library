@@ -139,6 +139,103 @@
 </device>
 </devices>
 </deviceset>
+<deviceset name="0OHM-ERJ-3GEY0R00V" prefix="R">
+<description>&lt;b&gt; Panasonic - ERJ-3GEY0R00V - RES SMD 0 OHM JUMPER 1/10W 0603&lt;/b&gt;
+&lt;p&gt;Description:
+&lt;ul&gt;
+&lt;li&gt;0 Ohms Jumper 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt; Technical Specifications:
+&lt;ul&gt;
+&lt;li&gt;Useful Info&lt;/li&gt;
+&lt;li&gt;Resistance: 0 Ohms&lt;/li&gt;
+&lt;li&gt;Tolerance: Jumper&lt;/li&gt;
+&lt;li&gt;Power: 0.1W, 1/10W&lt;/li&gt;
+&lt;li&gt;Operating Temperature: -55°C ~ 155°C&lt;/li&gt;
+&lt;li&gt;Package/Case: 0603 (1608 Metric)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Datasheet(s):
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEY0R00V+7+WW"&gt;ERJ-3GEY0R00V View All Specifications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Vendor(s):
+&lt;ul&gt;
+&lt;li&gt;Vendor Name: &lt;a href="https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3GEY0R00V/P0.0GCT-ND/134711"&gt;P0.0GCT-ND&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;</description>
+<gates>
+<gate name="A" symbol="R-US" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="RC0603N">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="POPULATE" value="YES" constant="no"/>
+<attribute name="VALUE" value="0Ohm" constant="no"/>
+<attribute name="VERIFIED" value="NO" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="1K-ERJ-PB3D1001V" prefix="R">
+<description>&lt;b&gt; Panasonic - P20283CT-ND - RES SMD 1K OHM 0.5% 1/5W 0603&lt;/b&gt;
+&lt;p&gt;Description:
+&lt;ul&gt;
+&lt;li&gt;1 kOhms ±0.5% 0.2W, 1/5W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt; Technical Specifications:
+&lt;ul&gt;
+&lt;li&gt;Resistance: 1 kOhms&lt;/li&gt;
+&lt;li&gt;Tolerance: ±0.5%&lt;/li&gt;
+&lt;li&gt;Power: 0.2W, 1/5W&lt;/li&gt;
+&lt;li&gt;Operating Temperature: -55°C ~ 155°C	&lt;/li&gt;
+&lt;li&gt;Package / Case: 0603 (1608 Metric)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Datasheet(s):
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C328.pdf"&gt;ERJ-PB3, PB6 Series, High Precision Datasheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Vendor(s):
+&lt;ul&gt;
+&lt;li&gt;Digikey: &lt;a href="https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-PB3D1001V/P20283CT-ND/6214538"&gt;P20283CT-ND&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;</description>
+<gates>
+<gate name="A" symbol="R-US" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="RC0603N">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="POPULATE" value="YES" constant="no"/>
+<attribute name="VALUE" value="1K" constant="no"/>
+<attribute name="VERIFIED" value="NO" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </drawing>
